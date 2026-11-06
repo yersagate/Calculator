@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
 # Calculator
 
 A simple command-line calculator written in Python. It asks for two numbers and an operation (+, -, /, *), then prints the result.
