@@ -20,4 +20,4 @@ Action (+ - / *): *
 ## Run
 
 ```bash
-python main.py
+python calculator.py
