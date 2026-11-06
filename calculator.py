@@ -2,7 +2,7 @@ try:
     a = float(input('Number One: '))
     b = float(input('Number Two: '))
 except ValueError:
-    print("Ошибка: нужно ввести число!")
+    print("Error :(")
     exit()
 
 action = input('Action (+ - / *): ')
