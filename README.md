@@ -18,6 +18,9 @@ Number Two: 64
 Action (+ - / *): *
 1920.0
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Run
 
